@@ -1,6 +1,5 @@
         public static string addOrChangeUrlParameter(string url, string param)
         {
-            Console.WriteLine(url.IndexOf('='));
             if (url.IndexOf('?') == -1)
             {
                 url += "?" + param;
