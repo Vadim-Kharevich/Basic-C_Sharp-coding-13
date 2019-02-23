@@ -1,0 +1,21 @@
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Manipulate URL ParametersTests.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Manipulate URL ParametersTests.pdb
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Manipulate URL Parameters.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\nunit.framework.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Manipulate URL Parameters.pdb
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\nunit.framework.pdb
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\bin\Debug\nunit.framework.xml
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\obj\Debug\Manipulate URL ParametersTests.csprojResolveAssemblyReference.cache
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\obj\Debug\Manipulate URL ParametersTests.csproj.CoreCompileInputs.cache
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\obj\Debug\Manipulate URL ParametersTests.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL ParametersTests\obj\Debug\Manipulate URL ParametersTests.pdb

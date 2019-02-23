@@ -1,0 +1,6 @@
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL Parameters\bin\Debug\Manipulate URL Parameters.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL Parameters\bin\Debug\Manipulate URL Parameters.pdb
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL Parameters\obj\Debug\Manipulate URL Parameters.csprojResolveAssemblyReference.cache
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL Parameters\obj\Debug\Manipulate URL Parameters.csproj.CoreCompileInputs.cache
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL Parameters\obj\Debug\Manipulate URL Parameters.dll
+D:\Колледж\треннинг\Manipulate URL Parameters\Manipulate URL Parameters\obj\Debug\Manipulate URL Parameters.pdb
